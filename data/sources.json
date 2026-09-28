@@ -1,8 +1,8 @@
 {
   "sources": [
     {
-      "id": "nus_undergraduate_programmes",
-      "url": "https://www.nus.edu.sg/oam/undergraduate-programmes"
+      "id": "nus_computing_undergraduate_programmes",
+      "url": "https://www.comp.nus.edu.sg/programmes/ug/"
     },
     {
       "id": "ntu_undergraduate_admissions",
