@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "id": "nus_undergraduate_programmes",
+      "url": "https://www.nus.edu.sg/oam/undergraduate-programmes"
+    },
+    {
+      "id": "ntu_undergraduate_admissions",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate"
+    }
+  ]
+}

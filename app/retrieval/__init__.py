@@ -1,0 +1,1 @@
+"""Document retrieval components (planned for Day 2)."""

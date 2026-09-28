@@ -1,0 +1,1 @@
+"""University Knowledge Agent application package."""
