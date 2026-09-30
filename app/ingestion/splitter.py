@@ -26,7 +26,8 @@ def recursive_character_split(
         if limit < len(text):
             for separator in SEPARATORS:
                 boundary = text.rfind(separator, start, limit - len(separator) + 1)
-                if boundary > start:
+                # Split past the overlap so each chunk ends after the previous one.
+                if boundary > start + chunk_overlap:
                     end = boundary + len(separator)
                     break
 

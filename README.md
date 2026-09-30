@@ -13,8 +13,10 @@ python -m venv .venv
 python -m pip install -e ".[dev]"
 ```
 
-Edit `data/sources.json` to add public page URLs or local HTML/PDF files. Then
-run the ingestion script:
+Edit `data/sources.json` to add public page URLs, local HTML/PDF files, or NUS
+courses by code (`{"id": "nus_module_cs2040", "nusmods_module": "CS2040"}`,
+fetched from the public NUSMods API for AY2026-2027 unless `acad_year` is set).
+Then run the ingestion script:
 
 ```powershell
 python -m app.ingestion.run

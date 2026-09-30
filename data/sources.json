@@ -5,8 +5,314 @@
       "url": "https://www.comp.nus.edu.sg/programmes/ug/"
     },
     {
+      "id": "nus_module_cs1010",
+      "nusmods_module": "CS1010"
+    },
+    {
+      "id": "nus_module_cs1010s",
+      "nusmods_module": "CS1010S"
+    },
+    {
+      "id": "nus_module_cs1101s",
+      "nusmods_module": "CS1101S"
+    },
+    {
+      "id": "nus_module_cs1231s",
+      "nusmods_module": "CS1231S"
+    },
+    {
+      "id": "nus_module_cs2030s",
+      "nusmods_module": "CS2030S"
+    },
+    {
+      "id": "nus_module_cs2040",
+      "nusmods_module": "CS2040"
+    },
+    {
+      "id": "nus_module_cs2040s",
+      "nusmods_module": "CS2040S"
+    },
+    {
+      "id": "nus_module_cs2100",
+      "nusmods_module": "CS2100"
+    },
+    {
+      "id": "nus_module_cs2101",
+      "nusmods_module": "CS2101"
+    },
+    {
+      "id": "nus_module_cs2102",
+      "nusmods_module": "CS2102"
+    },
+    {
+      "id": "nus_module_cs2103t",
+      "nusmods_module": "CS2103T"
+    },
+    {
+      "id": "nus_module_cs2105",
+      "nusmods_module": "CS2105"
+    },
+    {
+      "id": "nus_module_cs2106",
+      "nusmods_module": "CS2106"
+    },
+    {
+      "id": "nus_module_cs2107",
+      "nusmods_module": "CS2107"
+    },
+    {
+      "id": "nus_module_cs2108",
+      "nusmods_module": "CS2108"
+    },
+    {
+      "id": "nus_module_cs2109s",
+      "nusmods_module": "CS2109S"
+    },
+    {
+      "id": "nus_module_cs3210",
+      "nusmods_module": "CS3210"
+    },
+    {
+      "id": "nus_module_cs3211",
+      "nusmods_module": "CS3211"
+    },
+    {
+      "id": "nus_module_cs3216",
+      "nusmods_module": "CS3216"
+    },
+    {
+      "id": "nus_module_cs3219",
+      "nusmods_module": "CS3219"
+    },
+    {
+      "id": "nus_module_cs3223",
+      "nusmods_module": "CS3223"
+    },
+    {
+      "id": "nus_module_cs3230",
+      "nusmods_module": "CS3230"
+    },
+    {
+      "id": "nus_module_cs3233",
+      "nusmods_module": "CS3233"
+    },
+    {
+      "id": "nus_module_cs3243",
+      "nusmods_module": "CS3243"
+    },
+    {
+      "id": "nus_module_cs3244",
+      "nusmods_module": "CS3244"
+    },
+    {
+      "id": "nus_module_cs3263",
+      "nusmods_module": "CS3263"
+    },
+    {
+      "id": "nus_module_cs3264",
+      "nusmods_module": "CS3264"
+    },
+    {
+      "id": "nus_module_cs4211",
+      "nusmods_module": "CS4211"
+    },
+    {
+      "id": "nus_module_cs4225",
+      "nusmods_module": "CS4225"
+    },
+    {
+      "id": "nus_module_cs4231",
+      "nusmods_module": "CS4231"
+    },
+    {
+      "id": "nus_module_cs4234",
+      "nusmods_module": "CS4234"
+    },
+    {
+      "id": "nus_module_cs4236",
+      "nusmods_module": "CS4236"
+    },
+    {
+      "id": "nus_module_cs4238",
+      "nusmods_module": "CS4238"
+    },
+    {
+      "id": "nus_module_cs4243",
+      "nusmods_module": "CS4243"
+    },
+    {
+      "id": "nus_module_cs4246",
+      "nusmods_module": "CS4246"
+    },
+    {
+      "id": "nus_module_cs4248",
+      "nusmods_module": "CS4248"
+    },
+    {
+      "id": "nus_module_cs4261",
+      "nusmods_module": "CS4261"
+    },
+    {
+      "id": "nus_module_cs4277",
+      "nusmods_module": "CS4277"
+    },
+    {
+      "id": "nus_module_cs5242",
+      "nusmods_module": "CS5242"
+    },
+    {
+      "id": "nus_module_cs5246",
+      "nusmods_module": "CS5246"
+    },
+    {
+      "id": "nus_module_cs5340",
+      "nusmods_module": "CS5340"
+    },
+    {
+      "id": "nus_module_cp2106",
+      "nusmods_module": "CP2106"
+    },
+    {
+      "id": "nus_module_cp3880",
+      "nusmods_module": "CP3880"
+    },
+    {
+      "id": "nus_module_is1108",
+      "nusmods_module": "IS1108"
+    },
+    {
+      "id": "nus_module_ma1521",
+      "nusmods_module": "MA1521"
+    },
+    {
+      "id": "nus_module_ma1522",
+      "nusmods_module": "MA1522"
+    },
+    {
+      "id": "nus_module_st2334",
+      "nusmods_module": "ST2334"
+    },
+    {
+      "id": "nus_module_dsa1101",
+      "nusmods_module": "DSA1101"
+    },
+    {
+      "id": "nus_module_dsa2101",
+      "nusmods_module": "DSA2101"
+    },
+    {
+      "id": "nus_module_dsa2102",
+      "nusmods_module": "DSA2102"
+    },
+    {
+      "id": "nus_module_dsa3101",
+      "nusmods_module": "DSA3101"
+    },
+    {
+      "id": "nus_module_dsa4212",
+      "nusmods_module": "DSA4212"
+    },
+    {
+      "id": "nus_module_dsa4213",
+      "nusmods_module": "DSA4213"
+    },
+    {
+      "id": "nus_module_it5005",
+      "nusmods_module": "IT5005"
+    },
+    {
       "id": "ntu_undergraduate_admissions",
       "url": "https://www.ntu.edu.sg/admissions/undergraduate"
+    },
+    {
+      "id": "ntu_admission_guide",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide"
+    },
+    {
+      "id": "ntu_admission_a_level",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/singapore-cambridge-gce-a-level"
+    },
+    {
+      "id": "ntu_admission_polytechnic_diploma",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/diploma-awarded-by-a-polytechnic-or-equivalent-institution-in-singapore"
+    },
+    {
+      "id": "ntu_admission_ib_diploma",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-baccalaureate-diploma"
+    },
+    {
+      "id": "ntu_admission_international_qualifications",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications"
+    },
+    {
+      "id": "ntu_admission_nus_high_school_diploma",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/nus-high-school-diploma"
+    },
+    {
+      "id": "ntu_admission_transfer_applicants",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/transfer-applicants"
+    },
+    {
+      "id": "ntu_admission_adult_learners_scheme",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/adult-learners-scheme"
+    },
+    {
+      "id": "ntu_indicative_grade_profile",
+      "url": "https://www.ntu.edu.sg/docs/default-source/undergraduate-admissions/igp/ntu_igp.pdf",
+      "title": "NTU Indicative Grade Profile"
+    },
+    {
+      "id": "ntu_indicative_grade_profile_faq",
+      "url": "https://www.ntu.edu.sg/media/docs/default-source/undergraduate-admissions/igp/igpfaq.pdf",
+      "title": "NTU Indicative Grade Profile FAQ"
+    },
+    {
+      "id": "ntu_tuition_fees_2026",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-fees/accepted-programme-offer-in-2026"
+    },
+    {
+      "id": "ntu_tuition_grants",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-grants"
+    },
+    {
+      "id": "ntu_financial_aid",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/financial-aid"
+    },
+    {
+      "id": "ntu_scholarships",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships"
+    },
+    {
+      "id": "ntu_scholarships_faq",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships/faqs-on-scholarships"
+    },
+    {
+      "id": "ntu_turing_ai_scholars_programme",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/premier-scholar-programmes/turing-ai-scholars-programme"
+    },
+    {
+      "id": "ntu_cn_yang_scholars_programme",
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/premier-scholar-programmes/cn-yang-scholars-programme"
+    },
+    {
+      "id": "ntu_bsc_data_science_ai",
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-data-science-artificial-intelligence"
+    },
+    {
+      "id": "ntu_college_of_computing_and_data_science",
+      "url": "https://www.ntu.edu.sg/education/colleges-schools/college-of-computing-and-data-science"
+    },
+    {
+      "id": "ntu_curriculum_icc_faq",
+      "url": "https://www.ntu.edu.sg/education/inspire/interdisciplinary-collaborative-core-(icc)/frequently-asked-questions"
+    },
+    {
+      "id": "ntu_graduation_matters",
+      "url": "https://www.ntu.edu.sg/education/academic-services/graduation-matters"
+    },
+    {
+      "id": "ntu_exchange_programmes",
+      "url": "https://www.ntu.edu.sg/education/student-exchanges/exchange-programmes"
     }
   ]
 }
